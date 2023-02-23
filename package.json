@@ -1,0 +1,11 @@
+{
+  "name": "shared-modules",
+  "version": "1.0.0",
+  "author": "Victor Kmin",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.10.0"
+  }
+}
